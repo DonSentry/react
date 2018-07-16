@@ -32,7 +32,7 @@ class Errors extends Component {
     // ERRORS
     notAFunctionError() {
         var obj = {};
-        obj.invalid();
+        obj.invalidFunction();
     }
 
     uriError() {
